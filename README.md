@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on collaborative projects
+- 🌱 I’m currently learning lot of new things ! 
+- 🤔 I’m looking to innovate on project in Software Development or machine learning.
+- 💬 You can ask me about: computer science, machine learning, software development, coding or anything else. 
+- ⚡ Fun fact: Japanese trains are among the world’s most punctual(their average delay is just 18 seconds!)
+- - 📫 How to reach me:
+- 
