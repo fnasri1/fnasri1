@@ -13,7 +13,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_farouk_nasri" width="40" /></a>
-  <a href="mailto: farouk.nasri@auditeur.ec-lyon.fr" src="svg_icons/email.svg" alt="email_farouk_nasri" height="40" width="40" /></a>
+  <a href="mailto: farouk.nasri@auditeur.ec-lyon.fr"><img align="center" src="svg_icons/email.svg" alt="email_farouk_nasri" height="40" width="40" /></a>
 </div>
 
 
