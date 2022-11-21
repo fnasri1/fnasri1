@@ -1,7 +1,6 @@
-<p align="center">
-### Hi there 👋 I am NASRI Farouk
-Computer science engineer at Ecole Centrale Lyon.
-</p>
+<h1 align="center" fontsize="20">
+Hi there 👋 I am NASRI Farouk
+</h1>
 
 
 <!--
