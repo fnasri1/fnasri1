@@ -1,6 +1,6 @@
-<h1 align="center" fontsize="20">
+
 Hi there 👋 I am [NASRI Farouk](https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US)
-</h1>
+
 
 
 - 🔭 I’m currently working on collaborative projects
