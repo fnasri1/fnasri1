@@ -1,5 +1,6 @@
-
+<p align="center">
 Hi there 👋 I am [NASRI Farouk](https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US)
+</p>
 
 
 
