@@ -17,22 +17,12 @@
 </div>
 
 
-<div align="center">
-<h3>
-    <img align="center" src="svg_icons/curriculum-resume.svg" alt="curriculum_vitae" height="40" width="40" />
-    Resumes: 
-    <a href="https://maxime-leger.github.io/CV/CV_en.pdf" target="_blank"><strong>EN</strong></a>
-    <a href="https://maxime-leger.github.io/CV/CV_fr.pdf" target="_blank"><strong>FR</strong></a>
-</div></h3>
-
-
-
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
   <!--   Code -->
   <a href="https://www.python.org" target="_blank"> <img src="svg_icons/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="svg_icons/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://cplusplus.com/" target="_blank"> <img src="svg_icons/c++-original.svg" alt="C++" width="40" height="40"/> </a> 
+  <a href="https://cplusplus.com/" target="_blank"> <img src="svg_icons/c-original.svg" alt="C++" width="40" height="40"/> </a> 
   <a href="https://mathworks.com" target="_blank"> <img src="svg_icons/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> 
   
   
