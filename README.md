@@ -1,7 +1,5 @@
-<p align="center">
-Hi there 👋 I am [NASRI Farouk](https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US)
-</p>
-
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US" target="_blank">Farouk NASRI</a></h1>
+<h3 align="center">Computer Science Engineer @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a></h3>
 
 
 - 🔭 I’m currently working on collaborative projects
