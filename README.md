@@ -1,4 +1,8 @@
+<p align="center">
 ### Hi there 👋 I am NASRI Farouk
+Computer science engineer at Ecole Centrale Lyon.
+</p>
+
 
 <!--
 **fnasri1/fnasri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
