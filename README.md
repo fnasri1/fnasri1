@@ -7,8 +7,6 @@
     🤔 I’m looking to innovate on project in Software Development or machine learning.
     💬 You can ask me about: computer science, machine learning, software development, coding or anything else. 
     ⚡ Fun fact: Japanese trains are among the world’s most punctual(their average delay is just 18 seconds!)
-    📫 How to reach me:
-
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
