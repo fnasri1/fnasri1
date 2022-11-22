@@ -7,10 +7,13 @@
     🤔 I’m looking to innovate on project in Software Development or machine learning.
     💬 You can ask me about: computer science, machine learning, software development, coding or anything else. 
     ⚡ Fun fact: Japanese trains are among the world’s most punctual(their average delay is just 18 seconds!)
+        
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+  <p> You can find me at : <p>
   <a href="https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_farouk_nasri" width="40" /></a>
+  <p>, or send me an Email :
   <a href="mailto: farouk.nasri@auditeur.ec-lyon.fr"><img align="center" src="svg_icons/email.svg" alt="email_farouk_nasri" height="40" width="40" /></a>
 </div>
 
