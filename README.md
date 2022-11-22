@@ -19,7 +19,6 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-<p> I can work with :
 <div align="center"> 
   <!--   Code -->
   <a href="https://www.python.org" target="_blank"> <img src="svg_icons/python-original.svg" alt="python" width="40" height="40"/> </a> 
