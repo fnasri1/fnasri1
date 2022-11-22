@@ -13,12 +13,13 @@
 <div align="center">
   <p> You can find me at : 
   <a href="https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_farouk_nasri" width="40" /></a></p>
-  <p>, or send me an Email :
+  <p> Or send me an Email :
   <a href="mailto: farouk.nasri@auditeur.ec-lyon.fr"><img align="center" src="svg_icons/email.svg" alt="email_farouk_nasri" height="40" width="40" /></a></p>
 </div>
 
 
 <h3 align="center">Languages and Tools:</h3>
+<p> I can work with :
 <div align="center"> 
   <!--   Code -->
   <a href="https://www.python.org" target="_blank"> <img src="svg_icons/python-original.svg" alt="python" width="40" height="40"/> </a> 
