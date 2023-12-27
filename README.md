@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US" target="_blank">Farouk NASRI</a></h1>
-<h3 align="center">Computer Science Engineer @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a></h3>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/farouk-nasri/?locale=en_US" target="_blank">Farouk NASRI</a></h1>
+<h3 align="center">Software Developpement Engineer from @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a> and @<a href="https://centrale-casablanca.ma/en/" target="_blank">École Centrale de Casablanca</a></h3>
 
 
-    🔭 I’m currently working on collaborative projects.
-    🌱 I’m currently learning Japanese.
-    🤔 I’m looking to innovate on project in Software Development or machine learning.
+    🔭 I’m currently working on for fun personal projects.
+    🌱 I’m currently learning Japanese and Chinese.
+    🤔 I’m looking to learn more about Software Development and machine learning.
     💬 You can ask me about: computer science, machine learning, software development, coding or anything else. 
     ⚡ Fun fact: Japanese trains are among the world’s most punctual(their average delay is just 18 seconds!)
         
@@ -12,9 +12,9 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <p> You can find me at : 
-  <a href="https://www.linkedin.com/in/farouk-nasri-8639271b5/?locale=en_US" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_farouk_nasri" width="40" /></a></p>
+  <a href="https://www.linkedin.com/in/farouk-nasri" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_farouk_nasri" width="40" /></a></p>
   <p> Or send me an Email :
-  <a href="mailto: farouk.nasri@auditeur.ec-lyon.fr"><img align="center" src="svg_icons/email.svg" alt="email_farouk_nasri" height="40" width="40" /></a></p>
+  <a href="mailto: farouk.nasri.pro@gmail.com"><img align="center" src="svg_icons/email.svg" alt="email_farouk_nasri" height="40" width="40" /></a></p>
 </div>
 
 
