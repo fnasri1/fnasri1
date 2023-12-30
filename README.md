@@ -3,7 +3,7 @@
 
 
     🔭 I’m currently working on for fun personal projects.
-    🌱 I’m currently learning Japanese and Chinese as languages.
+    🌱 I’m currently learning Japanese and Chinese as languages1.
     🤔 I’m looking to learn more about Software Development and machine learning.
     💬 You can ask me about: computer science, machine learning, software development, coding or anything else. 
     ⚡ Fun fact: Japanese trains are among the world’s most punctual(their average delay is just 18 seconds!)
