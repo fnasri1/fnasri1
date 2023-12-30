@@ -2,9 +2,9 @@
 <h3 align="center">Software Developpement Engineer from @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a> and @<a href="https://centrale-casablanca.ma/en/" target="_blank">École Centrale de Casablanca</a></h3>
 
 
-    🔭 I’m currently working on for fun personal projects.
-    🌱 I’m currently learning Japanese and Chinese as languages1.
-    🤔 I’m looking to learn more about Software Development and machine learning.
+    🔭 I’m currently working on for fun personal projects.a
+    🌱 I’m currently learning Japanese and Chinese.
+    🤔 I’m looking to learn more about Software Development and machine learning and artificial intelligence.
     💬 You can ask me about: computer science, machine learning, software development, coding or anything else. 
     ⚡ Fun fact: Japanese trains are among the world’s most punctual(their average delay is just 18 seconds!)
         
