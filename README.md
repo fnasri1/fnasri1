@@ -2,7 +2,7 @@
 <h3 align="center">Software Developpement Engineer from @<a href="https://www.ec-lyon.fr" target="_blank">École Centrale de Lyon</a> and @<a href="https://centrale-casablanca.ma/en/" target="_blank">École Centrale de Casablanca</a></h3>
 
 
-    🔭 I’m currently working on for fun personal projects.
+    🔭 I’m currently working on for fun personal projects.aaaaaaaaaaaaaaaaa
     🌱 I’m currently learning Japanese and Chinese as languages.
     🤔 I’m looking to learn more about Software Development and machine learning.
     💬 You can ask me about: computer science, machine learning, software development, coding or anything else. 
