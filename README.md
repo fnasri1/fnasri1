@@ -13,7 +13,7 @@
 <div align="center">
   <p> You can find me at : 
   <a href="https://www.linkedin.com/in/farouk-nasri" target="_blank"><img align="center" src="svg_icons/linkedin-original.svg" alt="linkedin_farouk_nasri" width="40" /></a></p>
-  <p> Or send me an Email :
+  <p> Or send me an Email:
   <a href="mailto: farouk.nasri.pro@gmail.com"><img align="center" src="svg_icons/email.svg" alt="email_farouk_nasri" height="40" width="40" /></a></p>
 </div>
 
